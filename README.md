@@ -83,7 +83,6 @@ A production-style microservice with:
 ## 📫 Connect With Me
 - Email: **yashitbamba107@gmail.com**  
 - GitHub: **github.com/yashitb**  
-- LinkedIn: *(send me your link and I'll add it)*
 
 ---
 
